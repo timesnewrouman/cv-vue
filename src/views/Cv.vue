@@ -2,21 +2,21 @@
   <div class="cv">
     <Info />
     <Position />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <Experience />
   </div>
 </template>
 
 <script>
-import HelloWorld from "@/components/HelloWorld.vue";
-import Info from "@/components/Info.vue";
-import Position from "@/components/Position.vue";
+import Info from "@/components/Info";
+import Position from "@/components/Position";
+import Experience from "@/components/Experience";
 
 export default {
   name: "Cv",
   components: {
-    HelloWorld,
     Info,
     Position,
+    Experience,
   },
 };
 </script>

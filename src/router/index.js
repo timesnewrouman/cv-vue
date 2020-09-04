@@ -5,18 +5,18 @@ const routes = [
   {
     path: '/',
     name: 'Cv',
-    component: Cv
+    component: Cv,
   },
   {
     path: '/projects',
     name: 'Projects',
-    component: () => import(/* webpackChunkName: "about" */ '../views/Projects.vue')
+    component: () => import('../views/Projects.vue'),
   }
 ]
 
 const router = createRouter({
   history: createWebHashHistory(),
-  routes
+  routes,
 })
 
-export default router
+export default router;
