@@ -44,6 +44,7 @@ export default {
 .info__name {
   display: flex;
   margin: 0 auto 10px 170px;
+  color: black;
 }
 
 .info__age {

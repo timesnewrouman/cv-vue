@@ -3,6 +3,8 @@
     <Info />
     <Position />
     <Experience />
+    <Education />
+    <HardSkills />
   </div>
 </template>
 
@@ -10,6 +12,8 @@
 import Info from "@/components/Info";
 import Position from "@/components/Position";
 import Experience from "@/components/Experience";
+import Education from "@/components/Education";
+import HardSkills from "@/components/HardSkills";
 
 export default {
   name: "Cv",
@@ -17,6 +21,8 @@ export default {
     Info,
     Position,
     Experience,
+    Education,
+    HardSkills,
   },
 };
 </script>

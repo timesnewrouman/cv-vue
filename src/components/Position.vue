@@ -41,6 +41,7 @@ hr {
 .position__name {
   margin: 0;
   display: flex;
+  color: black;
 }
 
 .position__professional-area {
@@ -75,6 +76,7 @@ hr {
   top: 60px;
   font-size: 24px;
   font-weight: 700;
+  color: black;
 }
 
 .position__rub {
