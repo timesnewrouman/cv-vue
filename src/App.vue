@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Резюме</router-link>|
-      <router-link to="/projects">Портфолио</router-link>
+      <router-link to="/projects">Портфолио</router-link>|
+      <router-link to="/certificates">Сертификаты</router-link>
     </div>
     <router-view />
   </div>
@@ -18,15 +19,15 @@
 }
 
 #nav {
-  padding: 30px;
+  padding: 15px;
 }
 
 #nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: #42b983;
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #2c3e50;
 }
 </style>
