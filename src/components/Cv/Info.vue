@@ -1,17 +1,17 @@
 <template>
   <hr />
   <div class="info">
-    <img class="info__photo" src="../images/photo.jpg" />
+    <img class="info__photo" src="../../images/photo.jpg" />
     <h1 class="info__name">Жигайков Роман Олегович</h1>
     <span class="info__age">Мужчина, 24 года, родился 12 мая 1996</span>
     <span class="info__tel">+7 (967) 0969125</span>
     <span class="info__email">zhigaikov.roman@yandex.ru</span>
     <a class="info__linkedin" target="_blank" href="https://www.linkedin.com/in/zhigaikov-roman">
-      <img src="../images/linkedin.png" />
+      <img src="../../images/linkedin.png" />
       <span>LinkedIn</span>
     </a>
     <a class="info__github" target="_blank" href="https://github.com/timesnewrouman">
-      <img src="../images/github.png" />
+      <img src="../../images/github.png" />
       <span>GitHub</span>
     </a>
     <p class="info__home">

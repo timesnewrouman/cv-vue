@@ -9,11 +9,11 @@
 </template>
 
 <script>
-import Info from "@/components/Info";
-import Position from "@/components/Position";
-import Experience from "@/components/Experience";
-import Education from "@/components/Education";
-import HardSkills from "@/components/HardSkills";
+import Info from "@/components/Cv/Info";
+import Position from "@/components/Cv/Position";
+import Experience from "@/components/Cv/Experience";
+import Education from "@/components/Cv/Education";
+import HardSkills from "@/components/Cv/HardSkills";
 
 export default {
   name: "Cv",

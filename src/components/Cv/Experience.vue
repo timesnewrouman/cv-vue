@@ -158,7 +158,7 @@ hr {
 }
 
 .experience__1580 {
-  margin-top: 60px;
+  margin-top: 50px;
   display: flex;
   flex-direction: column;
   position: relative;
