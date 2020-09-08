@@ -148,6 +148,7 @@ hr {
   display: none;
   margin: 7px auto 0 130px;
   text-align: start;
+  border: 1px solid #2c3e50;
 }
 
 .experience__jamilco {

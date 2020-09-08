@@ -38,5 +38,7 @@ export default {
 .certificates__item_opened {
   width: unset;
   height: unset;
+  max-width: 1000px;
+  border: solid 1px #2c3e50;
 }
 </style>
