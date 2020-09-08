@@ -1,6 +1,7 @@
 # Резюме
-
-#### Реализовано при помощи Vue.js
+###### Версия 1.0.0
+#### Демо https://timesnewrouman.github.io/cv-vue
+Учебный проект, реализованный с целью получения практики применения Vue.js. Веб-резюме, адаптированная под сферу разработки. Планируется дальнейшая доработка проекта
 
 ## Project setup
 ```
@@ -15,6 +16,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Deploy script
+```
+deploy.sh
 ```
 
 ### Customize configuration

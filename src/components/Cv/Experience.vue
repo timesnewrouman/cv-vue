@@ -62,9 +62,8 @@
       <span class="experience__duration"></span>
       <span class="experience__name">Физико-математический лицей №1580</span>
       <span class="experience__position">Педагог дополнительного образования</span>
-      <button @click="moreDetails" class="experience__button-1580">Подробнее</button>
       <div
-        class="experience__info"
+        class="experience__info-1580"
       >Подготовка учащихся к сдаче вступительных экзаменов в 10й класс по математике.</div>
     </div>
     <span></span>
@@ -122,11 +121,6 @@ hr {
   margin-top: 10px;
 }
 
-.experience__button-1580 {
-  position: absolute;
-  margin-top: 100px;
-}
-
 .experience__button {
   position: absolute;
   margin-top: 60px;
@@ -149,6 +143,11 @@ hr {
   margin: 7px auto 0 130px;
   text-align: start;
   border: 1px solid #2c3e50;
+}
+
+.experience__info-1580 {
+  display: flex;
+  margin: 7px auto 0 130px;
 }
 
 .experience__jamilco {
