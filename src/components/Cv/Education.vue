@@ -26,7 +26,7 @@ export default {
 
 .education__preview {
   display: flex;
-  margin-top: 100px;
+  margin-top: 70px;
   color: lightslategray;
 }
 
