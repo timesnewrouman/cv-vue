@@ -1,8 +1,10 @@
 <template>
   <div class="projects">
-    <CardsApp />
-    <Journeys />
     <Newsapp />
+    <CardsApp />
+    <CvVue />
+    <Journeys />
+    <Feynman />
   </div>
 </template>
 
@@ -10,9 +12,8 @@
 import CardsApp from "@/components/Projects/CardsApp";
 import Journeys from "@/components/Projects/Journeys";
 import Newsapp from "@/components/Projects/Newsapp";
-//import CardsApp from "@/components/Projects/CardsApp";
-//import CardsApp from "@/components/Projects/CardsApp";
-//import CardsApp from "@/components/Projects/CardsApp";
+import CvVue from "@/components/Projects/CvVue";
+import Feynman from "@/components/Projects/Feynman";
 
 export default {
   name: "Projects",
@@ -20,6 +21,8 @@ export default {
     CardsApp,
     Journeys,
     Newsapp,
+    CvVue,
+    Feynman,
   },
 };
 </script>
