@@ -2,6 +2,7 @@
   <div class="projects">
     <Newsapp />
     <CardsApp />
+    <TaskListVue />
     <CvVue />
     <Journeys />
     <Feynman />
@@ -14,6 +15,7 @@ import Journeys from "@/components/Projects/Journeys";
 import Newsapp from "@/components/Projects/Newsapp";
 import CvVue from "@/components/Projects/CvVue";
 import Feynman from "@/components/Projects/Feynman";
+import TaskListVue from "@/components/Projects/TaskListVue";
 
 export default {
   name: "Projects",
@@ -23,6 +25,7 @@ export default {
     Newsapp,
     CvVue,
     Feynman,
+    TaskListVue,
   },
 };
 </script>
