@@ -2,7 +2,7 @@
   <span class="position__preview">Желаемая должность и зарплата</span>
   <hr />
   <div class="position">
-    <span class="position__salary">60000</span>
+    <span class="position__salary">60 000</span>
     <span class="position__rub">руб.</span>
     <h3 class="position__name">Младший фронтенд-разработчик</h3>
     <ul class="position__professional-area">
@@ -10,7 +10,7 @@
       <li class="position__professional-area-li">Программирование, Разработка</li>
     </ul>
     <span class="position__employment">Занятость: полная занятость</span>
-    <span class="position__schedule">График работы: удаленная работа, гибкий график, полный день</span>
+    <span class="position__schedule">График работы: полный день, удаленная работа, гибкий график</span>
     <span class="position__road">Желательное время в пути до работы: не имеет значения</span>
   </div>
 </template>

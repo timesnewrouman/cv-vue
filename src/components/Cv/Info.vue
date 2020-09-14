@@ -62,6 +62,7 @@ export default {
   color: #2c3e50;
   margin: 3px auto 0 170px;
   display: flex;
+  height: 16px;
 }
 
 .info__github {
@@ -69,6 +70,7 @@ export default {
   color: #2c3e50;
   margin: 3px auto 0 170px;
   display: flex;
+  height: 16px;
 }
 
 .info__home {
