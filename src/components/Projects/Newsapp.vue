@@ -8,8 +8,8 @@
     <p class="newsapp__info">
       Дипломный проект курсов от Яндекс.Практикум. Реализован сервис, позволяющий найти актуальные новости и сохранить их в своём личном кабинете.
       Вёрстка макета - html5+css3, БЭМ;
-      Frontend - JavaScript, Webpack
-      Backend - Node.js, Express.js, MongoDB
+      Frontend - JavaScript, Webpack;
+      Backend - Node.js, Express.js, MongoDB.
       <br />Можно ознакомиться с репозиторием frontend-части
       <a
         class="newsapp__repo"

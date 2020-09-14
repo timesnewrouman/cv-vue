@@ -12,6 +12,7 @@
     <span class="hardskills__item">БЭМ</span>
     <span class="hardskills__item">MongoDB</span>
     <span class="hardskills__item">Github</span>
+    <span class="hardskills__item">Английский язык - B2</span>
   </div>
 </template>
 
