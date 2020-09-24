@@ -2,7 +2,7 @@
   <span class="position__preview">Желаемая должность и зарплата</span>
   <hr />
   <div class="position">
-    <span class="position__salary">60 000</span>
+    <span class="position__salary">55 000</span>
     <span class="position__rub">руб.</span>
     <h3 class="position__name">Младший фронтенд-разработчик</h3>
     <ul class="position__professional-area">
