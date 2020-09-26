@@ -8,6 +8,7 @@
     <span class="hardskills__item">Vue.js</span>
     <span class="hardskills__item">Node.js</span>
     <span class="hardskills__item">Express.js</span>
+    <span class="hardskills__item">Bootstrap</span>
     <span class="hardskills__item">Webpack</span>
     <span class="hardskills__item">БЭМ</span>
     <span class="hardskills__item">MongoDB</span>
